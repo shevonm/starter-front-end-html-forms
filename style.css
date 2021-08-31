@@ -1,0 +1,19 @@
+body {
+  padding: 10px;
+}
+
+input {
+  margin: 5px;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 50%;
+}
+
+
+button {
+  margin-top: 25px;
+  width: 75px;
+}
